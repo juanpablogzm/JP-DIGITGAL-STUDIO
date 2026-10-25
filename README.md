@@ -10,6 +10,7 @@ Mostrar una oferta de valor centrada en productos digitales a medida: plataforma
 
 | Proyecto | Enfoque | Enlace |
 | --- | --- | --- |
+| ClassRoom | Gestión académica de clases, alumnos, asistencia y calificaciones | Incluido como caso de estudio |
 | Terranova ERP | SaaS inmobiliario, contratos, geodatos e IA | Incluido como caso de estudio |
 | FisioAdmin | Gestión clínica, agenda, expedientes y métricas | [Ver landing](https://fisioadminlanding.vercel.app/) |
 | Obra+ | Presupuestos y precios unitarios para construcción | Incluido como caso de estudio |
