@@ -1,6 +1,6 @@
-# JP / Digital Studio
+# JP Product Engineering
 
-Landing de portafolio para presentar servicios de diseño y desarrollo de soluciones tecnológicas para negocios. El sitio traduce experiencia técnica en una propuesta clara, visual y orientada a generar conversaciones con prospectos.
+Landing de portafolio para presentar servicios de diseño y desarrollo de software para negocios. Su propuesta de marca: “Construimos software para resolver problemas reales.”
 
 ## Propósito
 
@@ -60,7 +60,7 @@ Digital Studio/
 ## Personalización antes de publicar
 
 1. Reemplaza `hola@jp-digital.studio` en `index.html` por la dirección de Gmail de contacto.
-2. Actualiza el nombre de marca `JP / Digital Studio` si se utilizará una marca comercial distinta.
+2. Actualiza el nombre de marca `JP Product Engineering` si se utilizará una marca comercial distinta.
 3. Revisa que las descripciones de los casos de estudio correspondan a la versión publicada de cada producto.
 4. Añade un dominio propio y configura HTTPS en el proveedor de hosting elegido.
 
@@ -70,4 +70,4 @@ Al ser un sitio estático, puede desplegarse en GitHub Pages, Vercel, Netlify, C
 
 ## Derechos
 
-© 2026 JP / Digital Studio. Todos los derechos reservados.
+© 2026 JP Product Engineering. Todos los derechos reservados.
